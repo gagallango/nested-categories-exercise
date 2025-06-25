@@ -6,6 +6,8 @@ This project contains a function to get the nested category path from a categori
 
 ## How to run
 
+You should clone the repo first. After that:
+
 1. Install dependencies:
 
 ```bash
